@@ -1,4 +1,4 @@
-dst-john-hopkins
+dst-johns-hopkins
 ================
 
 coursera course repo
